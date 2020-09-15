@@ -1,0 +1,12 @@
+/Users/stephanie/Projects/Week4-Examples/Lecture3-Examples/bin/Debug/netcoreapp3.1/Lecture3-Examples.deps.json
+/Users/stephanie/Projects/Week4-Examples/Lecture3-Examples/bin/Debug/netcoreapp3.1/Lecture3-Examples.runtimeconfig.json
+/Users/stephanie/Projects/Week4-Examples/Lecture3-Examples/bin/Debug/netcoreapp3.1/Lecture3-Examples.runtimeconfig.dev.json
+/Users/stephanie/Projects/Week4-Examples/Lecture3-Examples/bin/Debug/netcoreapp3.1/Lecture3-Examples.dll
+/Users/stephanie/Projects/Week4-Examples/Lecture3-Examples/bin/Debug/netcoreapp3.1/Lecture3-Examples.pdb
+/Users/stephanie/Projects/Week4-Examples/Lecture3-Examples/obj/Debug/netcoreapp3.1/Lecture3-Examples.csprojAssemblyReference.cache
+/Users/stephanie/Projects/Week4-Examples/Lecture3-Examples/obj/Debug/netcoreapp3.1/Lecture3-Examples.AssemblyInfoInputs.cache
+/Users/stephanie/Projects/Week4-Examples/Lecture3-Examples/obj/Debug/netcoreapp3.1/Lecture3-Examples.AssemblyInfo.cs
+/Users/stephanie/Projects/Week4-Examples/Lecture3-Examples/obj/Debug/netcoreapp3.1/Lecture3-Examples.csproj.CoreCompileInputs.cache
+/Users/stephanie/Projects/Week4-Examples/Lecture3-Examples/obj/Debug/netcoreapp3.1/Lecture3-Examples.dll
+/Users/stephanie/Projects/Week4-Examples/Lecture3-Examples/obj/Debug/netcoreapp3.1/Lecture3-Examples.pdb
+/Users/stephanie/Projects/Week4-Examples/Lecture3-Examples/obj/Debug/netcoreapp3.1/Lecture3-Examples.genruntimeconfig.cache
